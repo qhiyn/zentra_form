@@ -1,0 +1,4694 @@
+[
+  {
+    "id": 1,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:33:20.828Z"
+  },
+  {
+    "id": 2,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:07.875Z"
+  },
+  {
+    "id": 3,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.252Z"
+  },
+  {
+    "id": 4,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.267Z"
+  },
+  {
+    "id": 5,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.283Z"
+  },
+  {
+    "id": 6,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.299Z"
+  },
+  {
+    "id": 7,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.317Z"
+  },
+  {
+    "id": 8,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.334Z"
+  },
+  {
+    "id": 9,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.350Z"
+  },
+  {
+    "id": 10,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.366Z"
+  },
+  {
+    "id": 11,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.381Z"
+  },
+  {
+    "id": 12,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.397Z"
+  },
+  {
+    "id": 13,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.411Z"
+  },
+  {
+    "id": 14,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.425Z"
+  },
+  {
+    "id": 15,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.438Z"
+  },
+  {
+    "id": 16,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.450Z"
+  },
+  {
+    "id": 17,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.463Z"
+  },
+  {
+    "id": 18,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.476Z"
+  },
+  {
+    "id": 19,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.488Z"
+  },
+  {
+    "id": 20,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.500Z"
+  },
+  {
+    "id": 21,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.513Z"
+  },
+  {
+    "id": 22,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.525Z"
+  },
+  {
+    "id": 23,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.538Z"
+  },
+  {
+    "id": 24,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.550Z"
+  },
+  {
+    "id": 25,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.563Z"
+  },
+  {
+    "id": 26,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.576Z"
+  },
+  {
+    "id": 27,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.588Z"
+  },
+  {
+    "id": 28,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.601Z"
+  },
+  {
+    "id": 29,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.614Z"
+  },
+  {
+    "id": 30,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.627Z"
+  },
+  {
+    "id": 31,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.639Z"
+  },
+  {
+    "id": 32,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.652Z"
+  },
+  {
+    "id": 33,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.664Z"
+  },
+  {
+    "id": 34,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.677Z"
+  },
+  {
+    "id": 35,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.689Z"
+  },
+  {
+    "id": 36,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.702Z"
+  },
+  {
+    "id": 37,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.715Z"
+  },
+  {
+    "id": 38,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.727Z"
+  },
+  {
+    "id": 39,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.740Z"
+  },
+  {
+    "id": 40,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.753Z"
+  },
+  {
+    "id": 41,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.766Z"
+  },
+  {
+    "id": 42,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.780Z"
+  },
+  {
+    "id": 43,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.792Z"
+  },
+  {
+    "id": 44,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.804Z"
+  },
+  {
+    "id": 45,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.817Z"
+  },
+  {
+    "id": 46,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.831Z"
+  },
+  {
+    "id": 47,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.845Z"
+  },
+  {
+    "id": 48,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.861Z"
+  },
+  {
+    "id": 49,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.874Z"
+  },
+  {
+    "id": 50,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.887Z"
+  },
+  {
+    "id": 51,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.900Z"
+  },
+  {
+    "id": 52,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.913Z"
+  },
+  {
+    "id": 53,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.925Z"
+  },
+  {
+    "id": 54,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.938Z"
+  },
+  {
+    "id": 55,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.950Z"
+  },
+  {
+    "id": 56,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.962Z"
+  },
+  {
+    "id": 57,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.975Z"
+  },
+  {
+    "id": 58,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:21.988Z"
+  },
+  {
+    "id": 59,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.000Z"
+  },
+  {
+    "id": 60,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.014Z"
+  },
+  {
+    "id": 61,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.027Z"
+  },
+  {
+    "id": 62,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.040Z"
+  },
+  {
+    "id": 63,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.053Z"
+  },
+  {
+    "id": 64,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.067Z"
+  },
+  {
+    "id": 65,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.080Z"
+  },
+  {
+    "id": 66,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.093Z"
+  },
+  {
+    "id": 67,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.105Z"
+  },
+  {
+    "id": 68,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.118Z"
+  },
+  {
+    "id": 69,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.130Z"
+  },
+  {
+    "id": 70,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.143Z"
+  },
+  {
+    "id": 71,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.155Z"
+  },
+  {
+    "id": 72,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.168Z"
+  },
+  {
+    "id": 73,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.181Z"
+  },
+  {
+    "id": 74,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.194Z"
+  },
+  {
+    "id": 75,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.207Z"
+  },
+  {
+    "id": 76,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.220Z"
+  },
+  {
+    "id": 77,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.233Z"
+  },
+  {
+    "id": 78,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.248Z"
+  },
+  {
+    "id": 79,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.263Z"
+  },
+  {
+    "id": 80,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.279Z"
+  },
+  {
+    "id": 81,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.295Z"
+  },
+  {
+    "id": 82,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.308Z"
+  },
+  {
+    "id": 83,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.324Z"
+  },
+  {
+    "id": 84,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.339Z"
+  },
+  {
+    "id": 85,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Jarang"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Ribet banget"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.352Z"
+  },
+  {
+    "id": 86,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.366Z"
+  },
+  {
+    "id": 87,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.380Z"
+  },
+  {
+    "id": 88,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tidak ada yang perlu"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.394Z"
+  },
+  {
+    "id": 89,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.408Z"
+  },
+  {
+    "id": 90,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pengeluaran"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Analisa AI (insight cashflow)"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.423Z"
+  },
+  {
+    "id": 91,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.438Z"
+  },
+  {
+    "id": 92,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Auto-sync mutasi bank"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.453Z"
+  },
+  {
+    "id": 93,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Fitur kurang sesuai kebutuhan"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.467Z"
+  },
+  {
+    "id": 94,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Tampilan (UI)"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.480Z"
+  },
+  {
+    "id": 95,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Lumayan ribet"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.495Z"
+  },
+  {
+    "id": 96,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Beberapa kali seminggu"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.509Z"
+  },
+  {
+    "id": 97,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Catat pemasukan"
+      },
+      {
+        "id": 3,
+        "answer": "Biasa aja"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.524Z"
+  },
+  {
+    "id": 98,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kecepatan/performansi"
+      },
+      {
+        "id": 6,
+        "answer": "Shared wallet"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.537Z"
+  },
+  {
+    "id": 99,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Budgeting"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Kurang membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Tidak butuh fitur tambahan"
+      },
+      {
+        "id": 7,
+        "answer": "Kadang ada bug kecil"
+      },
+      {
+        "id": 8,
+        "answer": "Biasa saja"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.551Z"
+  },
+  {
+    "id": 100,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Seminggu sekali"
+      },
+      {
+        "id": 2,
+        "answer": "Laporan/grafik"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Lumayan membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Laporan & grafik"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Sering error"
+      },
+      {
+        "id": 8,
+        "answer": "Tidak puas"
+      },
+      {
+        "id": 9,
+        "answer": "Tidak"
+      },
+      {
+        "id": 10,
+        "answer": "Mungkin"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.565Z"
+  },
+  {
+    "id": 101,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Cukup mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Sangat membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Fitur aset"
+      },
+      {
+        "id": 6,
+        "answer": "Reminder tagihan otomatis"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Sangat puas"
+      },
+      {
+        "id": 9,
+        "answer": "Ya"
+      },
+      {
+        "id": 10,
+        "answer": "Ya"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.579Z"
+  },
+  {
+    "id": 102,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Setiap hari"
+      },
+      {
+        "id": 2,
+        "answer": "Tracking aset"
+      },
+      {
+        "id": 3,
+        "answer": "Sangat mudah"
+      },
+      {
+        "id": 4,
+        "answer": "Tidak membantu"
+      },
+      {
+        "id": 5,
+        "answer": "Kategori pengeluaran"
+      },
+      {
+        "id": 6,
+        "answer": "Export ke Excel"
+      },
+      {
+        "id": 7,
+        "answer": "Tidak pernah"
+      },
+      {
+        "id": 8,
+        "answer": "Kurang puas"
+      },
+      {
+        "id": 9,
+        "answer": "Mungkin"
+      },
+      {
+        "id": 10,
+        "answer": "Tidak"
+      }
+    ],
+    "created_at": "2025-11-18T20:34:22.593Z"
+  }
+]

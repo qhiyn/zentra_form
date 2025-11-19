@@ -1,0 +1,79 @@
+<html>
+
+<head>
+    <title>Zentra Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+        }
+
+        .chart-box {
+            margin-bottom: 40px;
+            width: 600px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Zentra Feedback Dashboard</h1>
+    <p>Data otomatis ditarik dari <code>responses.json</code></p>
+
+    <div id="charts"></div>
+
+    <script>
+        async function load() {
+            const questions = await fetch("/api/questions").then(r => r.json());
+            const responses = await fetch("/api/responses").then(r => r.json());
+
+            const container = document.getElementById("charts");
+
+            if (responses.length === 0) {
+                container.innerHTML = "<h2>Belum ada data</h2>";
+                return;
+            }
+
+            questions.forEach(q => {
+                // Hitung frekuensi jawaban
+                const freq = {};
+                q.options.forEach(opt => freq[opt] = 0);
+
+                responses.forEach(r => {
+                    const ans = r.answers.find(a => a.id === q.id);
+                    if (ans) freq[ans.answer]++;
+                });
+
+                // Buat canvas chart
+                const box = document.createElement("div");
+                box.className = "chart-box";
+                box.innerHTML = `<h3>${q.id}. ${q.text}</h3>`;
+                const canvas = document.createElement("canvas");
+                box.appendChild(canvas);
+                container.appendChild(box);
+
+                // Render chart
+                new Chart(canvas, {
+                    type: "bar",
+                    data: {
+                        labels: Object.keys(freq),
+                        datasets: [{
+                            label: "Jumlah jawaban",
+                            data: Object.values(freq)
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: { beginAtZero: true }
+                        }
+                    }
+                });
+            });
+        }
+
+        load();
+    </script>
+</body>
+
+</html>
